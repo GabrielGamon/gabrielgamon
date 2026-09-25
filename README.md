@@ -46,7 +46,7 @@ Tenho interesse e experiência no desenvolvimento de servidores FiveM, trabalhan
 - 🌐 Desenvolvimento Web
 - 🎮 Desenvolvimento para FiveM
 - 🗄️ Banco de Dados
--🐍 Python
+- 🐍 Python
 - 🚀 Novas tecnologias e ferramentas
 - 📊 Estatísticas
 
