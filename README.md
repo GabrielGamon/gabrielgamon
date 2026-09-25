@@ -29,6 +29,8 @@ Atualmente, estou focado em evoluir cada vez mais como desenvolvedor e ampliar m
 
 
 
+
+
 🎮 **Desenvolvimento FiveM**
 
 Tenho interesse e experiência no desenvolvimento de servidores FiveM, trabalhando principalmente com scripts, sistemas e configurações.
